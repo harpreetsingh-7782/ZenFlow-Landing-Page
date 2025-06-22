@@ -28,7 +28,7 @@ The primary goal was to build an engaging and informative web presence for ZenFl
 
 ## Live Demo
 You can view the live demo of this landing page here:
-**[Your GitHub Pages URL will go here]**
+https://harpreetsingh-7782.github.io/ZenFlow-Landing-Page/
 *(Replace this placeholder text with the actual URL you get after enabling GitHub Pages in your repository settings. It will look like `https://yourusername.github.io/ZenFlow-Landing-Page/`)*
 
 ## How to Run Locally
